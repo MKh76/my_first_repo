@@ -1,5 +1,6 @@
 # Sean Kross
 
+
 ### Geography
 
 I live in the city of Baltimore, in the state of Maryland, in the United States
